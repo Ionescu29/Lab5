@@ -1,0 +1,4 @@
+C:\Users\Ionut\source\repos\Lab5Ex3\Lab5Ex3\obj\Debug\net8.0\Lab5Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ionut\source\repos\Lab5Ex3\Lab5Ex3\obj\Debug\net8.0\Lab5Ex3.AssemblyInfoInputs.cache
+C:\Users\Ionut\source\repos\Lab5Ex3\Lab5Ex3\obj\Debug\net8.0\Lab5Ex3.AssemblyInfo.cs
+C:\Users\Ionut\source\repos\Lab5Ex3\Lab5Ex3\obj\Debug\net8.0\Lab5Ex3.csproj.CoreCompileInputs.cache
